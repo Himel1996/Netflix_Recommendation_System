@@ -8,7 +8,9 @@ The repository contains the following key files and folders:
 
 - `main.ipynb`: Jupyter notebook containing the code and analysis for the homework, including data collection, preprocessing, recommender system, clustering, command line solutions and algorithmic question.
 
-- `CommandLine.sh`: Bash script containing solution for command line question 
+- `CommandLine.sh`: Bash script containing solution for command line question
+  
+- `clq-output.png`: Output image for the CommandLine question
 
 - `functions.py`: Python module containing the functions used in main solution
 
