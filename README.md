@@ -7,6 +7,8 @@ This repository contains code and analysis for ADM Homework 4.
 The repository contains the following key files and folders:
 
 - `main.ipynb`: Jupyter notebook containing the code and analysis for the homework, including data collection, preprocessing, recommender system, clustering, command line solutions and algorithmic question.
+  
+- `main.html`: HTML file for the main solution
 
 - `CommandLine.sh`: Bash script containing solution for command line question
   
