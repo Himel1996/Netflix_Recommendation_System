@@ -15,8 +15,7 @@ The repository contains the following key files and folders:
 
 ## Analysis Summary
 
-The analysis focused on:
-
+The analysis focused on preprocessing the data followed by building a recommendation system using Hashing techniques. Furthermore, feature engineering was done followed by suitable dimensionality reduction techniques and then clustering was done with k-means and k-means ++ implementation. The clustering algorithm was evaluated based on certain metrics like Silhouette Scores.
 
 The repository contains all code and output to replicate the analysis described in the homework.
 
